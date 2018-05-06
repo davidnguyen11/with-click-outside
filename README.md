@@ -4,8 +4,7 @@
 
 The High Order Component which allows you to detect the current click is outside or inside of a component.
 
-![dropdown-demo](https://user-images.githubusercontent.com/6290720/39672342-d61c56a6-5152-11e8-86ac-59d9a058d331.gif)
-
+![Chợ Tốt header](https://user-images.githubusercontent.com/6290720/39674408-a70eaa62-5175-11e8-9bd3-bb674f43f837.gif)
 
 ## Table Content
 
