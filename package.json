@@ -1,9 +1,15 @@
 {
   "name": "with-click-outside",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "author": "David Nguyen <dzungnguyen179@gmail.com> (dzungnguyen179@gmail.com)",
+  "keywords": [
+    "react",
+    "react-component",
+    "high-order-component",
+    "click-outside"
+  ],
   "dependencies": {},
   "peerDependencies": {
     "prop-types": ">=15",
