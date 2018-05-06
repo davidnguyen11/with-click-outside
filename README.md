@@ -1,6 +1,6 @@
 # withClickOutside
 
-[![Build Status](https://travis-ci.org/davidnguyen179/with-click-outside.svg?branch=master)](https://travis-ci.org/davidnguyen179/with-click-outside) [![codecov](https://codecov.io/gh/davidnguyen179/with-click-outside/branch/master/graph/badge.svg)](https://codecov.io/gh/davidnguyen179/with-click-outside)
+[![Build Status](https://travis-ci.org/davidnguyen179/with-click-outside.svg?branch=master)](https://travis-ci.org/davidnguyen179/with-click-outside) [![codecov](https://codecov.io/gh/davidnguyen179/with-click-outside/branch/master/graph/badge.svg)](https://codecov.io/gh/davidnguyen179/with-click-outside) [![npm version](https://badge.fury.io/js/with-click-outside.svg)](https://badge.fury.io/js/with-click-outside) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/davidnguyen179/with-click-outside/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 The High Order Component which allows you to detect the current click is outside or inside of a component.
 
