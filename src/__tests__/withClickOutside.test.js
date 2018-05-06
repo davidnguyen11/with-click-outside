@@ -5,14 +5,14 @@ import Enzyme, { mount, shallow } from 'enzyme';
 import { spy } from 'sinon';
 import Adapter from 'enzyme-adapter-react-15';
 
-import DropDown from '../../DropDown';
-import withClickOutside from '../';
+import DropDown from '../DropDown';
+import withClickOutside from '../withClickOutside';
 
 const { describe, it } = global;
 Enzyme.configure({ adapter: new Adapter() });
 
-jest.mock('../contains');
-import contains from '../contains';
+jest.mock('../withClickOutside/contains');
+import contains from '../withClickOutside/contains';
 
 describe('H.O.C withClickOutside', () => {
   it('withClickOutside', () => {

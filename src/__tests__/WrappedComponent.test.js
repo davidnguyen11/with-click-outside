@@ -5,8 +5,8 @@ import Enzyme, { mount, shallow } from 'enzyme';
 import { spy } from 'sinon';
 import Adapter from 'enzyme-adapter-react-15';
 
-import DropDown from '../../DropDown';
-import withClickOutside from '../';
+import DropDown from '../DropDown';
+import withClickOutside from '../withClickOutside';
 
 const { describe, it } = global;
 Enzyme.configure({ adapter: new Adapter() });

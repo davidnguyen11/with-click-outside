@@ -1,4 +1,4 @@
-import contains from '../contains';
+import contains from '../withClickOutside/contains';
 
 const { test } = global;
 

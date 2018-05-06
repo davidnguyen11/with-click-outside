@@ -1,6 +1,11 @@
 # withClickOutside
 
+[![Build Status](https://travis-ci.org/davidnguyen179/with-click-outside.svg?branch=master)](https://travis-ci.org/davidnguyen179/with-click-outside)
+
 The High Order Component which allows you to detect the current click is outside or inside of a component.
+
+![dropdown-demo](https://user-images.githubusercontent.com/6290720/39672342-d61c56a6-5152-11e8-86ac-59d9a058d331.gif)
+
 
 ## Table Content
 
